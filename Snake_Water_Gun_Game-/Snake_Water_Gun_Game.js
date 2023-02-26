@@ -23,7 +23,7 @@ let comp_score = 0;
 let count = 0;
 let user;
 
-// a loop till the no of round user have to play
+// a loop till the no of round user have to play the game 
 while (round < round_count) {
 	user = prompt("\n Enter 'S' for Snake  'W' for Water  'G' for Gun ");
 
